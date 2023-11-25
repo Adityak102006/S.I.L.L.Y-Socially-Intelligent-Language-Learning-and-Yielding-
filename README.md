@@ -1,0 +1,2 @@
+# S.I.L.L.Y-Socially-Intelligent-Language-Learning-and-Yielding-
+This is an AI Assistant, currently in developing phase it only works on IDE or editing software as no GUI (Graphical user interface) is included after some time it will be a complete app with more features. It have some basic feature only. For using it you have to use a specific keyword like 'play'. Thanks you, copy the code and enjoy.
